@@ -1,1 +1,1 @@
-# my-AI & ML-material
+# my-AI @ ML-material
