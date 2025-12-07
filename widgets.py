@@ -21,6 +21,7 @@ data={
     'city':["Rajkot","Ahmedabad","Baroda","Surat"]
 }
 
+
 df=pd.DataFrame(data)
 df.to_csv("sampledata.csv")
 st.write(df)
